@@ -6,11 +6,11 @@ body{
 .card{
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-redius: 10px;
-  background-color: white;
+  background-color: #ffffff;
   marigin : 50px auto;
   width: 300px;
   padding: 20px;
-  text-align: center
+  text-align: center;
 }
 .card img(
   width: 150px;
