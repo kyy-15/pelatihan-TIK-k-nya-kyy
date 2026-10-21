@@ -13,7 +13,7 @@ body{
   text-align: center;
   color: black;
 }
-img(
+.card-img(
   width: 150px;
   border-radius: 50%;
 }
