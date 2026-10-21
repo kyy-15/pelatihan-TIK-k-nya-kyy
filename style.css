@@ -13,7 +13,8 @@ body{
   text-align: center;
   color: black;
 }
-.img-card{
+.img-card img{
+  height: 150px;
   width: 150px;
   border-radius: 50%;
 }
