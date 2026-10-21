@@ -12,6 +12,9 @@ body{
   padding: 20px;
   text-align: center;
   color: black;
+  display: flex;
+  justify-content: center;
+  align-item: center;
 }
 .img-card img{
   height: 150px;
